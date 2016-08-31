@@ -1,0 +1,52 @@
+*{ margin: 0px;padding: 0px;}
+.huodongkuai{ width: 360px; height: 400px; float: left; margin: 6px;}
+.biaoti{height: 30px; background-position: 5px -173px;}
+.neirong{ border: 1px solid #B0b0b0 ; border-radius: 6px }
+
+.wenzi{ line-height:25px;font-family: "微软雅黑";float: left; margin-left: 20px;}
+.gengduo{ line-height:26px;float:right; width: 57px;
+            font-size: 12px;
+}
+a{  text-decoration: none;
+    color: black;
+    font-family: "微软雅黑";}
+
+.bgStyle{ background-image: url(../../imgs/bg.gif)}
+
+.tupian{ width: 331px; margin: 10px auto; position: relative}
+
+.tupian div{ position: absolute; bottom: 3px; background-color: black;color: white; text-align: center;
+    width: 100%;
+    line-height: 30px;
+    height: 30px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    /*opacity: 0.8;  背景透明。但文本内容也会透明*/
+    background: rgba(0,0,0,0.5);   /*背景透明。文字不透明*/
+}
+.ulstyle{
+    width: 331px;
+    margin: 0px auto;
+    border-bottom:  1px dashed #CCC;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.ulstyle li{
+	list-style-type: none;
+	font-size: 12px;
+	color: #555;
+	line-height: 20px;
+	clear: left
+}
+.w_small{ width: 50%;display: inline-block}
+.ulstyle2{
+    width: 331px;
+    margin: 0px auto;
+}
+.ulstyle2 li{list-style-type: none;  font-size: 12px; color: #888; height: 25px;}
+.ulstyl2_left{float: left}
+.ulstyl2_right{float: right; color: red}
+
+a:link{ color: #2e5eff;}
+
+#content{ width: 750px; margin: 0px auto}
