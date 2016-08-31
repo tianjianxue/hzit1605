@@ -1,0 +1,282 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.all {
+    width: 735px;
+    height: 426px;
+    margin: auto;
+}
+
+.allone {
+    width: 355px;
+    height: 420px;
+    float: left;
+}
+
+.alltwo {
+    width: 355px;
+    height: 420px;
+    margin-left: 18px;
+    float: left;
+}
+
+.top {
+    width: 354px;
+    height: 33px;
+    background-image: url('../../imgs/bg.gif');
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-position: 0px -170px;
+}
+
+.topleft {
+    width: 328px;
+    height: 33px;
+    margin: auto;
+}
+
+.topzo {
+
+}
+
+.topzo li {
+    list-style-type: none;
+    float: left;
+}
+
+.topone {
+    width: 130px;
+    height: 33px;
+    line-height: 33px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.toptwo {
+    line-height: 33px;
+    font-size: 14px;
+    height: 33px;
+    width: 42px;
+    margin-left: 152px;
+}
+
+.da {
+    width: 355px;
+    height: 368px;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 8px;
+}
+
+.jpg {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/deco.jpg');
+    background-repeat: no-repeat;
+}
+
+.jpgfive {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/english.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jpgone {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/maple.jpg');
+    background-repeat: no-repeat;
+}
+
+.jpgtwo {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/swim.jpg');
+    background-repeat: no-repeat;
+}
+
+.jpgthree {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/boss.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jpgfour {
+    width: 331px;
+    height: 125px;
+    border: 1px solid rgb(215, 215, 215);
+    margin: 12px;
+    background-image: url('../../imgs/music.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.tou {
+    width: 331px;
+    height: 25px;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 100px;
+}
+
+#zi {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+}
+
+.middle {
+    width: 331px;
+    height: 100px;
+    border-bottom: 1px dashed rgb(215, 215, 215);
+    margin: 12px;
+
+}
+
+.middle li {
+    list-style-type: none;
+    font-size: 12px;
+    color: black;
+    line-height: 24px;
+}
+
+#si {
+    float: left;
+    padding-right: 90px;
+}
+
+#wu {
+    float: left;
+    padding-right: 82px;
+}
+
+.bott {
+    width: 331px;
+    height: 92px;
+    margin: 12px;
+}
+
+.bott li {
+    list-style-type: none;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+#qi {
+    float: left;
+    padding-right: 95px;
+}
+
+#ba {
+    float: left;
+    padding-right: 76px;
+}
+
+#jiu {
+    float: left;
+    padding-right: 95px;
+}
+
+#shi {
+    float: left;
+    padding-right: 65px;
+}
+
+.huang {
+    color: rgb(255, 95, 65);
+}
+
+.bott li a:link {
+    text-decoration: none;
+    color: rgb(23, 112, 238);
+}
+
+.bott li a:hover {
+    text-decoration: none;
+    color: rgb(255, 155, 0);
+}
+
+#zi a:link {
+    text-decoration: none;
+    color: white;
+}
+
+#zi a:hover {
+    text-decoration: none;
+    color: rgb(255, 155, 0);
+}
+
+.topzo li a:hover {
+    text-decoration: none;
+    color: rgb(255, 155, 0);
+}
+
+.bott li a:link {
+    text-decoration: none;
+}
+
+.toptwo a:link {
+    text-decoration: none;
+    color: black;
+}
+
+#gongyi {
+    float: left;
+    padding-right: 157px;
+}
+
+#gonger {
+    float: left;
+    padding-right: 67px;
+}
+
+#gongsan {
+    float: left;
+    padding-right: 66px;
+}
+
+#gongsi {
+    float: left;
+    padding-right: 108px;
+}
+
+.gongwu {
+    float: left;
+    padding-right: 69px;
+}
+
+#gongliu {
+    float: left;
+    padding-right: 87px;
+}
+
+#gongqi {
+    float: left;
+    padding-right: 60px;
+}
+
+#gongba {
+    float: left;
+    padding-right: 70px;
+}
+
+#gjiu {
+    float: left;
+    padding-right: 88px;
+}
