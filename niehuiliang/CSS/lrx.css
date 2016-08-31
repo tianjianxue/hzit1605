@@ -6,7 +6,7 @@
     width: 740px;
     margin: 0 auto;
 }
-#lrx_1{
+.lrx_1{
     width: 356px;
     height: 370px;
     margin: 10px 0 0 0;
@@ -115,7 +115,7 @@ span{
 .lrx_1_b_c a:hover{
     color: darkorange;
 }
-#lrx_2{
+.lrx_2{
     width: 356px;
     height: 370px;
     margin: 10px 0 0 20px;
