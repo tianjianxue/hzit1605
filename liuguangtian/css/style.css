@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#main_body {
+    width: 750px;
+    height: auto;
+    margin: 0 auto;
+}
+.top {
+    width: 375px;
+    height: 400px;
+    float: left;
+}
+.top_img {
+    width: 355px;
+    height: 19px;
+    background: url("../../imgs/bg.gif") no-repeat;
+    background-position: 0 -176px;
+    margin-bottom: 8px;
+}
+.title {
+    margin-left: 12px;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+.top_img a {
+    margin-left: 222px;
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+}
+#more {
+    margin-left: 214px;
+}
+#more2 {
+    margin-left: 175px;
+}
+.main {
+    width: 355px;
+    height: 355px;
+    border: 1px solid #D5D5D5;
+    border-radius: 5px;
+}
+.main_img {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/deco.jpg");
+    margin: 8px auto;
+}
+.main_img2 {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/maple.jpg");
+    margin: 8px auto;
+}
+.main_img3 {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/swim.jpg");
+    margin: 8px auto;
+}
+.main_img4 {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/boss.jpg");
+    margin: 8px auto;
+}
+.main_img5 {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/music.jpg");
+    margin: 8px auto;
+}
+.main_img6 {
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/english.jpg");
+    margin: 8px auto;
+}
+.link {
+    width: 331px;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    background-color: rgba(0,0,0,0.5);
+}
+.link a {
+    color: #FFFFFF;
+    line-height: 25px;
+    font-size: 16px;
+}
+.main_middle {
+    width: 331px;
+    height: 105px;
+    border-bottom: 1px dashed #CCCCCC;
+    margin: 0 auto;
+}
+.li_style1 {
+    list-style: none;
+    font-size: 13px;
+    line-height: 25px;
+    color: #5A5A5A;
+}
+.half1 {
+    float: left;
+    width: 50%;
+}
+.main_bottom {
+    margin-top: 12px;
+}
+.li_style2 {
+    list-style: none;
+    font-size: 13px;
+    line-height: 25px;
+    color: #5A5A5A;
+}
+.half2 {
+    float: left;
+}
+.half3 {
+    float: right;
+}
+span {
+    color: #FF5F41;
+}
+a {
+    color: #1770EE;
+    text-decoration: none;
+}
+a:hover {
+    color: #FF7300;
+}
