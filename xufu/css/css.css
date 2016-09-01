@@ -1,0 +1,97 @@
+*{
+    padding: 0; margin: 0;
+}
+.dage{
+    width: 730px;
+    height:1300px;
+    margin: auto;
+}
+
+.waikuang{
+    width: 320px;
+    height: 360px;
+    float: left;
+    margin:40px 17px;
+
+}
+.shang-daohang{
+    width: 400px;
+    height: 40px;
+}
+.logo{
+    width:15px;
+    height: 30px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:3px 52px;
+}
+.logo,.dushi,.gengduo{
+    float: left;
+}
+.gengduo{
+    background-image: url("../../imgs/bg.gif");
+    background-position:-113px 52px;
+    width: 50px;
+    height: 30px;
+    padding-left: 185px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+}
+.gengduo a:hover{
+    text-decoration: none;
+    color: #FFB821;
+
+}
+.gengduo a{
+    text-decoration: none;
+    color: black;
+}
+.tupian-wenzi a{
+    text-decoration: none;
+    color: white;
+}
+.tupian-wenzi a:hover{
+    text-decoration: none;
+    color: #FFB821;
+}
+
+.zhuti{
+    width: 340px;
+    height: 400px;
+    border: 1px solid #b0b0b0;
+    border-radius: 5px;
+}
+.tupian{
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/deco.jpg");
+    margin: 10px auto;
+}
+.tupian-wenzi{
+    width: 331px;
+    height: 20px;
+    background-color: black;
+    background:rgba(0,0,0,0.5);
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 105px;
+}
+.zhuti-2{
+    width: 331px;
+    height: 125px;
+    margin-left:4px;
+    line-height: 20px;
+    border-bottom: 1px dashed #cccccc;
+}
+.zhuti-2 p,.bottom p{
+    font-size: 15px;
+    font-family: weiruanya;
+    line-height: 30px;
+}
+span{
+    color:red;
+}
+.bottom p a{
+    text-decoration: none;
+}
+
