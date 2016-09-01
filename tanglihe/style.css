@@ -87,12 +87,12 @@ h1 {
     left: 10px;
     width:340px;
     height: 20px;
-    background-color: #6B4C40;
+    background-color: black;
     font-size: 16px;
     line-height: 20px;
     font-weight: normal;
     text-align: center;
-    background: rgb (0,0,0,1);
+    background: rgba(0,0,0,0.5);
 }
 h1 a{
     text-decoration: none;
@@ -142,4 +142,3 @@ h1 a:hover {
     height: 360px;
     margin-left: 370px;
 }
-
