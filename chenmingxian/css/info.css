@@ -52,7 +52,7 @@
 .beijing{
     width: 331px;
     height:125px;
-    border:1px solid red;
+    border:1px solid #edebf1;
     margin: 5px auto;
     background-image: url(../../imgs/deco.jpg);
 }
