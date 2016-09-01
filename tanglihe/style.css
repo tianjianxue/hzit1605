@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
 }
-#top {
+.top {
     width: 730px;
     height: 360px;
     margin: 0 auto;
     margin-top: 10px;
 }
-#top_left {
+.top_left {
     width: 360px;
     height: 360px;
     margin: 0 auto;
@@ -17,7 +17,7 @@
     left:0px;
     top: 0px;
 }
-#top_left_1 {
+.top_left_1 {
     height: 30px;
     width: 360px;
     background-image: url(../imgs/bg.gif);
@@ -60,7 +60,7 @@
 .span3 a:hover {
     color: red;
 }
-#top_left_2 {
+.top_left_2 {
     height: 320px;
     width: 360px;
     margin-top: 10px;
@@ -70,14 +70,14 @@
     border:1px gray solid;
 
 }
-#top_left_2_1 {
+.top_left_2_1 {
     height: 300px;
     width: 340px;
     position: relative;
     top:10px;
     left:10px;
 }
-#top_left_2_1 img {
+.top_left_2_1 img {
     height: 125px;
     width: 340px;
 }
@@ -117,7 +117,7 @@ h1 a:hover {
     left:5px;
     top: 0px;
 }
-#line {
+.line {
     width: 340px;
     height: 20px;
     border-bottom: 1px black dashed;
@@ -137,7 +137,7 @@ h1 a:hover {
 .top_left_ul_2 a:link {
     text-decoration:none;
 }
-#top_right {
+.top_right {
     width: 360px;
     height: 360px;
     margin-left: 370px;
