@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 750px;
+    margin: 0px auto;
+
+}
+.tbody{
+    width: 353px;
+    height: 390px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.top{
+    width: 353px;
+    height: 30px;
+    line-height: 30px;
+    text-indent: 1em;
+    background: url("../../imgs/bg.gif") no-repeat 0px -171px;
+}
+.top .top_right{
+    font-size: 14px;
+    float: right;
+    margin-right: 12px;
+    line-height: 30px;
+}
+.top_right a{
+    color: black;
+    text-decoration: none;
+}
+.top_right a:hover{
+    color: #ff7300;
+}
+.content{
+    width: 353px;
+    height: 355px;
+    border: 1px solid #b0b0b0;
+    border-radius: 4px 4px;
+}
+.img{
+    width: 331px;
+    height: 125px;
+    margin: 10px auto;
+    position: relative;
+}
+.content .img_1{
+    background: url("../../imgs/deco.jpg") no-repeat;
+}
+.content .img_2{
+    background: url("../../imgs/maple.jpg") no-repeat;
+}
+.content .img_3{
+    background: url("../../imgs/swim.jpg") no-repeat;
+}
+.content .img_4{
+    background: url("../../imgs/boss.jpg") no-repeat;
+}
+.content .img_5{
+    background: url("../../imgs/music.jpg") no-repeat;
+}
+.content .img_6{
+    background: url("../../imgs/english.jpg") no-repeat;
+}
+.img .shadow{
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.shadow a{
+    color: white;
+    text-decoration: none;
+}
+.shadow a:hover{
+    color: #ff7300;
+}
+.add {
+    height: 105px;
+    width: 331px;
+    line-height: 25px;
+    margin: 0px auto;
+    border-bottom: 1px dashed #b0b0b0;
+    font-size: 14px;
+    color: #666;
+}
+ul li{
+    list-style: none;
+    width: 165px;
+    line-height: 25px;
+    display: table-cell;
+    text-align: left;
+}
+ul li .num a{
+    color: #ff7300;
+}
+.news{
+    width: 331px;
+    height: 105px;
+    margin: 0px auto;
+    font-size: 14px;
+    color: #666;
+    line-height: 25px;
+}
+.news p{
+    text-align: left;
+    width: 100%;
+    height: 25px;
+}
+.news p a{
+    color: #1770EE;
+    text-decoration: none;
+}
+.news p a:hover{
+    color: #ff7300;
+}
+.news p .date{
+    float: right;
+    color: #ff7300;
+}
