@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.biaoti{
+    width: 360px;
+    height: 325px;
+}
+.tubiao{ background-image: url('../../imgs/bg.gif');}
+.tubiao {
+    width: 360px;
+    height: 25px;
+    background-position: 5px -173px;
+}
+.live{
+    height: 25px;
+    line-height: 25px;
+    font-family: 'w微软雅黑';
+    font-size: 15px;
+    font-weight: bolder;
+    float: left;
+    margin-left: 20px;
+}
+.more{
+    height: 25px;
+    line-height: 25px;
+    float: right;
+    margin-right: 15px;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color: #404040;
+    font-family: 'w微软雅黑';
+}
+.neirong{
+    border: 1px solid black;
+    width: 360px;
+    height: 300px;
+    border-radius: 6px
+}
+.tupian{
+    width: 331px;
+    height: 125px;
+    margin: 10px auto;
+    position: relative;
+}
+.teach{
+    width: 331px;
+    height: 25px;
+    background: #000000;
+    line-height: 25px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    font-family: '微软雅黑';
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    background: rgba(0,0,0,0.5);
+}
+.wenzi{
+    width: 331px;
+    height: 75px;
+    line-height: 18px;
+    font-size: 12px;
+    font-family: '微软雅黑';
+    margin: auto;
+    border-bottom: 1px dashed #cccccc;
+}
+.wenzi ul{
+    list-style: none;
+}
+.renshu{
+    width: 165px;
+    float: left;
+}
+.liuyan{
+    width: 165px;
+    float: right;
+}
+.huodong{
+    width: 165px;
+    float: left;
+}
+.pay{
+    width: 165px;
+    float: right;
+}
+.zuihou {
+    width: 331px;
+    margin: auto;
+    height: 70px;
+    line-height: 18px;
+    font-size: 12px;
+    font-family: '微软雅黑';
+}
+.zuihou ul{
+    list-style: none;
+}
+.zuihou .a{
+    width: 230px;
+    float: left;
+}
+.zuihou .a a{
+    text-decoration: none;
+    color: #1770ee;
+    font-family: 'w微软雅黑';
+}
+.zuihou .b{
+    width: 70px;
+    float: right;
+    color: #ff0000;
+}
+.c{
+    float: right;
+}
+
+#six_one,#six_three,#six_five{
+    float: left;
+}
+#six_two,#six_four,#six_six{
+    float: right;
+}
+#first{
+    margin: auto;
+}
+#waishang,#waizhong,#waixia{
+    width: 740px;
+    height: 340px;
+    margin: auto;
+}
