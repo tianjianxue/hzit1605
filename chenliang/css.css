@@ -1,0 +1,82 @@
+*{margin: 0px;padding:0px}
+
+.sha{  border: 1px #b0b0b0 solid; border-radius:5px; width:360px;  height: 380px; float: left; margin: 7px 7px}
+.shb{  width:360px;  height: 50px; }
+
+.shc{
+
+    width:330px;
+    height: 350px;
+    margin: 0px auto;
+}
+
+.she{
+    width:360px;  height:33px;
+    background-image: url("../imgs/bg.gif");
+    background-position: 11px -165px;
+}
+.shg{
+    float: right;
+    font-size: 12px;
+    position: relative;
+    left:-10px ;
+    top: -18px;
+}
+.shh{
+    list-style: none;
+    float: left;
+    font-size: 14px;
+    font-family: 微软雅黑;
+    border-bottom: 1px dashed #333;
+    padding: 0px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
+
+}
+.shh li{
+    position: relative;
+}
+.shf{
+    float: left;
+    font-size:14px;
+    font-weight: bold;
+    position: relative;
+    right:-30px ;
+    top:-20px ;
+
+}
+
+.shi{
+    text-align: center;
+    position: relative;
+    top: -20px;
+    background-color:black ;
+    color: white;
+    background: rgba(0 0 0 0.5);
+    width: 100%;
+}
+
+.shj{
+    list-style: none;
+    font-size: 14px;
+    font-family: 微软雅黑;
+
+}
+
+.shj a{text-decoration: none;
+}
+
+.shl{
+    color:red;
+    float: right;
+
+
+}
+
+
+.cha {
+    width: 760px;
+    height:1150px;
+   margin: 0px auto;
+}
+
+
