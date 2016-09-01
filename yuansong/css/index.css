@@ -1,0 +1,154 @@
+.s{
+    margin-left: 12px;
+    float: left;
+    height: 370px;
+    width: 355px;
+
+}
+.y{
+    margin: 0px auto;
+    width: 740px;
+    height: 1146px;
+
+}
+.topologo{
+
+    width: 343px;
+    height: 32px;
+    background-image: url(../../imgs/bg.gif);
+    background-position: 0px -170px;
+    font-size: 14px;
+    font-weight: bolder;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+.topologo span{
+
+    font-size: 12px;
+    margin-left: 230px;
+    font-weight: lighter;
+}
+#bb{
+    margin-left: 215px;
+}
+#cc{
+    margin-left: 170px;
+}
+#dd{
+    margin-left: 215px;
+}
+.y a{
+    color: #000000;
+    text-decoration: none;
+}
+.y a:hover{
+    color: #FD5F41;;
+}
+.word a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.word a:hover{
+    color: #FD5F41;;
+}
+.body{
+    width: 353px;
+    height: 335px;
+    border: 1px solid #D7D7D7;
+}
+.eye{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/deco.jpg)
+}
+.word{
+
+    width: 330px;
+    height: 20px;
+    text-align: center;
+    color: #ffffff;
+    background: rgba(0,0,0,0.5);
+    margin-top:100px;
+    padding-top: 5px;
+}
+.aa{
+    border-bottom: dashed 1px #D7D7D7;
+
+    margin-left: 10px;
+    height: 88px;
+    width: 331px;
+}
+li{
+    margin-left: -35px;
+    list-style: none;
+    font-size: 14px;
+    line-height: 20px;
+}
+.a{
+    float: left;
+}
+.b{
+    margin-left: 145px;
+}
+.c{
+    padding-left: 270px;
+}
+#d{
+    color: #FD5F41;
+}
+.a a:hover{
+    color: #FD5F41;
+}
+.a a{
+    color: #1770ED;
+    text-decoration: none;
+}
+
+#e{
+    color: #000000;
+    margin-left: 213px;
+}
+.eye1{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/maple.jpg)
+}
+.eye2{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/swim.jpg)
+}
+.eye3{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/boss.jpg)
+}
+.eye4{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/music.jpg)
+}
+.eye5{
+    width: 331px;
+    height: 125px;
+    border: 1px solid #D7D7D7;
+    margin-top:5px;
+    margin-left: 10px;
+    background-image: url(../../imgs/english.jpg)
+}

@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#box{
+    width: 740px;
+    margin: 0 auto;
+}
+.lrx_1{
+    width: 356px;
+    height: 370px;
+    margin: 10px 0 0 0;
+    float: left;
+}
+.lrx_1_a{
+    width: 356px;
+    height: 20px;
+    line-height: 20px;
+    background: url("../../imgs/bg.gif") no-repeat 0 -176px;
+}
+.lrx_1_a_a{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 0 15px;
+    float: left;
+    list-style: none;
+}
+.lrx_1_a_b{
+    font-size: 10px;
+    margin: 0 0 0 230px;
+    float: left;
+    list-style: none;
+}
+.hn{
+    margin: 0 0 0 220px;
+}
+.lex{
+    margin: 0 0 0 190px;
+}
+.lrx_1_a_b a{
+    color: black;
+    text-decoration: none;
+}
+.lrx_1_a_b a:hover{
+    color: darkorange;
+}
+
+.lrx_1_b{
+    width: 356px;
+    height: 330px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin: 10px 0 0 0;
+}
+.lrx_1_b_a{
+    width: 335px;
+    height: 127px;
+    margin: 10px auto;
+    position: relative;
+    text-align: center;
+}
+.lrx_1_b_a_s{
+    width: 331px;
+    height: 25px;
+    line-height: 25px;
+    /*background-color: rgba(63,60,58);*/
+    background-color: rgba(63,60,58,0.6);
+    /*opacity: 0.5;*/
+    position: absolute;
+    top:100px;
+    left: 2px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+.kd{
+    width: 311px;
+    left: 12px;
+}
+.lrx_1_b_a_s a{
+    color: white;
+    text-decoration: none;
+}
+.lrx_1_b_a_s a:hover{
+    color: darkorange;
+    text-decoration: none;
+}
+.lrx_1_b_b{
+    width: 331px;
+    height: 90px;
+    line-height: 20px;
+    border-bottom: 1px dashed #cccccc;
+    margin: 0 auto;
+    font-size: 13px;
+    color: rgb(90,90,90);
+}
+span{
+    color: rgb(255,95,65);
+}
+.sjrq{
+    float: right;
+}
+.lrx_1_b_c{
+    width: 331px;
+    height: 100px;
+    line-height: 20px;
+    margin: 10px auto 0 auto;
+    font-size: 13px;
+    color: rgb(90,90,90);
+}
+.lrx_1_b_c a{
+    color: rgb(23,112,238);
+    text-decoration: none;
+}
+.lrx_1_b_c a:hover{
+    color: darkorange;
+}
+.lrx_2{
+    width: 356px;
+    height: 370px;
+    margin: 10px 0 0 20px;
+    float: left;
+}

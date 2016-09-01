@@ -1,61 +1,163 @@
-#h1{
-    color: crimson;
-    font-size: 26px;
-    letter-spacing: 4px;
-    background-color: #FFA500;
-    font-style: normal;
-    width: 160px;height: 40px;
+.content{
+    width: 360px;
+    height: 425px;
     float: left;
+    margin: 16px;
 }
-#ha{
-    color: darkgrey;
-    font-size:12px ;
-    background-color: #2e5eff;
-    width: 160px;
-    line-height: 40px;
-    float: left;
+.title{
+    height: 40px;
+    background-image: url("../../imgs/bg.gif");
+    background-position: 2px -165px;
+    background-repeat: no-repeat;
 }
-#sa{
-    color: #33ff5a;
-    font-size: 18px;
-    line-height: 40px;
-    background-color: #b05cab;
-    width: 160px;
+.title_1{
+    width: 80px;
     float: left;
-}
-#da{
-    color: #fff936;
-    font-size: 18px;
+    font-size: 16px;
+    font-weight: bold;
     line-height: 40px;
-    background-color: #472ab0;
-    width: 160px;
-    float: left;
+    font-family: "微软雅黑";
+    margin-left: 15px;
 
 }
-#fa{
-    color: #ff9a42;
-    font-size: 18px;
+.title_2{
+    width: 60px;
+    float: right;
+    font-size: 12px;
     line-height: 40px;
-    background-color: #31b099;
-    width: 160px;
-    float: left;
+    font-family: "微软雅黑";
 }
-#ga{
-    color: #ff374d;
-    font-size: 18px;
-    line-height: 40px;
-    background-color: #872942;
-    width: 160px;
-    float: left;
+.title_2 a:link{
+    text-decoration: none;
+    color: black;
 }
-div{
-    width: 320px;
-    font-style: italic;
+.title_2 a:hover{
+    text-decoration: none;
+    color: #f79259;
+}
+.body{border: 1px solid #d7d7d7;
+    height: 380px;
+    border-radius: 8px;
+}
+.top{
+    width: 331px;
+    height: 125px;
+    background-image: url("../../imgs/deco.jpg");
+    margin: 10px auto;
+    position: static;
+}
+.wenzi{
+    color: white;
+    height: 25px;
+    line-height: 25px;
     text-align: center;
-    margin: auto;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position: relative;
+    top:100px;
+}
+
+.ulstyle{border-bottom: 1px dashed #d7d7d7;
+
+
+    position: relative;
+    right: 27px;
 
 }
-body{
-    background-image: url("http://dynamic-image.yesky.com/740x-/uploadImages/2016/224/22/98U89LW51UN0.jpg");
+ li{
+    line-height: 26px;
+    height: 26px;
+     list-style: none;
+     font-size: 12px;
 
+}
+li .m_a{
+    height: 26px;
+    width: 155px;
+    float: left;
+}
+li .m_b{
+    height: 26px;
+    width: 155px;
+    float: left;
+}
+li .m_c{
+    height: 26px;
+    width: 155px;
+    float: left;
+}
+li .m_d{
+    height: 26px;
+    width: 155px;
+    float: left;
+}
+.ulstyle_w{
+     position: relative;
+     right: 27px;
+ }
+li .z_a{
+    height: 26px;
+    width: 260px;
+    float: left;
+}
+li .z_b{
+     height: 26px;
+     width: 52px;
+     float: left;
+    text-align: right;
+ }
+li .z_c{
+    height: 26px;
+    width: 260px;
+    float: left;
+}
+li .z_d{
+    height: 26px;
+    width: 52px;
+    float: left;
+    text-align: right;
+}li .z_e{
+     height: 26px;
+     width: 260px;
+     float: left;
+ }
+li .z_f{
+    height: 26px;
+    width: 52px;
+    float: left;
+    text-align: right;
+}li .z_g{
+     height: 26px;
+     width: 260px;
+     float: left;
+ }
+li .z_h{
+    height: 26px;
+    width: 52px;
+    float: left;
+    text-align: right;
+}
+span{
+    color: orangered;
+}
+.ulstyle_w a:link{
+    text-decoration: none;
+    color: #2963ff;
+}
+.ulstyle_w a:hover{
+    text-decoration: none;
+    color: orangered;
+}
+.wenzi a:link{
+    text-decoration: none;
+    color: white;
+}
+.wenzi a:hover{
+    text-decoration: none;
+    color: orangered;
+}
+.all{
+    width: 800px;
+    height: 1400px;
+    margin: auto;
 }
