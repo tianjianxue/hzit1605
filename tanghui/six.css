@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ccc{border: 0px solid red;
+    width:1366px;
+    height: 100%;
+
+
+}
+.a{ margin: 15px 300px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+}
+.b{border: 0px solid red;
+    width:355px;
+    height: 25px;
+    background-image: url(../imggg/bg.gif);
+    background-position: 0 -175px;
+    float: left;
+
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-top:3px;
+}
+.c{
+
+    width: 45px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin:0px 221px;
+}
+.cc{width: 350px;
+    height: 340px;
+    border: 1px solid #d6d6d6;
+    margin-top: 0px;
+    float: left;
+
+}
+.d{border: 0px solid red;
+    width:345px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/deco.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;
+
+}
+.e{ width: 331px;
+    height: 20px;
+    background-color: #3e3a39;
+
+    font-family: 微软雅黑;
+    margin:120px 0px;
+    text-align: center;
+    color:white;
+
+}
+.f{border: 0px solid red;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: -5px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+}
+.g{border: 0px solid red;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: 0px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+}
+.h{border: 0px solid red;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: 0px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+}
+.i{
+    color: #fd5f41;
+}
+.j{ border: 0px solid red;
+    width:50px;
+    height:17px;
+    float: left;
+    margin: -16px 170px;
+}
+.k{
+
+    width:332px;
+    height:20px;
+    float: left;
+    margin: 0px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+    border-bottom: 1px dotted black ;
+}
+.l{border: 0px solid red;
+    width:100px;
+    height:17px;
+    float: left;
+    margin: -16px 170px;
+
+}
+.m{border: 0px solid black;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: 10px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+
+}
+.n{border: 0px solid black;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: -10px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+}
+.o{
+    border: 0px solid black;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: 10px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+}
+.p{ border: 0px solid black;
+    width:345px;
+    height:20px;
+    float: left;
+    margin: -10px 10px;
+    font-family: 微软雅黑;
+    font-size: 12px;
+
+}
+.pp{border: 0px solid red;
+     width:100px;
+     height:17px;
+     float: left;
+     margin: -16px 270px;
+
+ }
+a:link{
+    text-decoration: none;
+}
+.cccc{margin: 15px -300px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+
+}
+.dd{border: 0px solid red;
+    width:345px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/maple.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;
+
+}
+.C{ width: 45px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin:0px 207px;
+
+}
+.ccccc{margin: 350px -723px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+
+}
+.cccccc{
+    margin: -370px 370px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+}
+.ccccccc{margin: 350px -723px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+
+}
+.cccccccc{
+    margin: -370px 370px;
+    border: 0px solid blue;
+    width: 370px;
+    height: 370px;
+    float: left;
+}
+.CC{width: 45px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin:0px 220px;
+
+}
+.ddd{border: 0px solid red;
+    width:345px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/swim.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;
+
+}
+.CCC{width: 45px;
+     height: 20px;
+     font-size: 12px;
+     font-weight: bold;
+     margin:0px 162px;
+}
+.dddd{border: 0px solid red;
+    width:350px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/boss.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;}
+.ee{width: 311px;
+    height: 20px;
+    background-color: #3e3a39;
+
+    font-family: 微软雅黑;
+    margin:120px 0px;
+    text-align: center;
+    color:white;
+
+}
+.CCCC{width: 45px;
+    height: 20px;
+    font-size: 12px;
+    font-weight: bold;
+    margin:0px 220px;
+}
+.ddddd{border: 0px solid red;
+    width:350px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/music.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;}
+.eee {
+    width: 311px;
+    height: 20px;
+    background-color: #3e3a39;
+
+    font-family: 微软雅黑;
+    margin: 120px 0px;
+    text-align: center;
+    color: white;
+}
+
+
+.dddddd{border: 0px solid red;
+    width:350px;
+    height: 140px;
+    float: left;
+    background-image: url("../imggg/english.jpg");
+    background-repeat: no-repeat;
+    margin: 10px 10px;}
+.eeee{
+    width: 311px;
+    height: 20px;
+    background-color: #3e3a39;
+
+    font-family: 微软雅黑;
+    margin: 120px 0px;
+    text-align: center;
+    color: white;
+}
