@@ -1,0 +1,157 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    width: 380px;
+    height: 400px;
+    float: left;
+
+}
+
+.top {
+    height: 30px;
+
+}
+
+.tubiao {
+    height: 25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position: 5px -173px;
+}
+
+h6 {
+    margin: 0px 0px 0px 300px;
+    line-height: 27px;
+}
+
+.biaoti {
+    height: 25px;
+    float: left;
+    margin: -22px 0px 0px 20px;
+
+}
+
+.bottom {
+
+    width: 352px;
+    height: 337px;
+    margin: 12px auto;
+    border: 1px solid #b0b0b0;
+    border-radius: 7px;
+}
+
+.image {
+    margin: 12px 12px;
+    width: 333px;
+    height: 127px;
+    position: relative;
+
+}
+
+div .images {
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    margin: 2px -1px;
+    text-align: center;
+    width: 333px;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+.images a{
+    color: white;
+    text-decoration: none;
+}
+.images a:hover{
+    color: #ff7300;
+}
+
+.q {
+    height: 80px;
+    border-bottom: 1px dashed #b0b0b0;
+}
+
+.w {
+    width: 333px;
+    height: 100px;
+}
+
+.e li {
+    width: 100%;
+    height: 20px;
+    list-style: none;
+}
+
+.e {
+    font-size: 12px;
+    font-family: 微软雅黑;
+    margin: -5px 0px 0px 12px;
+
+}
+
+.e li div {
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+    line-height: 20px;
+}
+
+span {
+    color: red;
+
+}
+
+.nav {
+    width: 333px;
+    height: 100px;
+}
+
+.nav-one {
+    font-size: 12px;
+    width: 100%;
+    font-family: 微软雅黑;
+    margin: -12px 10px;
+    line-height: 20px;
+}
+
+.nav-one li {
+    list-style: none;
+    /*display: inline-block;*/
+    wight: 333px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.nav-one li a {
+    color: #2e5eff;
+    text-decoration: none;
+}
+
+.nav-one li a:hover {
+    color: #Ff7300;
+
+}
+
+.nav-one li div {
+    display: inline;
+    text-align: right;
+    height: 20px;
+    margin-right: 0px;
+
+}
+
+.z {
+    float: right;
+    width: 100px;
+}
+
+#yes {
+    width: 800px;
+    height: 1200px;
+    margin: 30px 350px;
+
+}
