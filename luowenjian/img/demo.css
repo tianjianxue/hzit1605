@@ -1,0 +1,9 @@
+.bgstyle{
+    background-image: url("imgs/bg.gif")
+}
+.border{
+    height: 40px;
+    width: 400px;
+    background-position:0px -179px;
+
+}
