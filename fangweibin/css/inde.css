@@ -1,5 +1,5 @@
 *{margin: 0px;padding: 0px;}
-.mn{width: 360px;margin: 10px;float: left}
+.mn{width: 360px;margin: 10px;float: left;}
 .hj{height: 40px;}
 .io{border:1px solid #b0b0b0;border-radius:6px;height: 330px;}
 .img{background-image: url(../../imgs/bg.gif);
@@ -51,6 +51,6 @@
 }
 .cv{float:left;line-height: 30px;width:250px;}
 .v{float: right;color: red;margin: 5px;}
-a:link{text-decoration: none; color: #1770ed}
+.cv a:link{text-decoration: none; color: #1770ed}
 
-.cent{width: 870px;height: 510px;float: left;}
+.cent{width: 870px;height: 510px;float: left;margin: 0px 250px}
