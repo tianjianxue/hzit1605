@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.A {
+    width: 350px;
+    height: 30px;
+    background-position: 0px -175px;
+    margin-left: 10px;
+    margin-bottom: -12px;
+    margin-top: 17px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    line-height: 22px;
+}
+a:link {
+    text-decoration: none;
+}
+.gd{float:right;
+    font-size: 13px;
+    margin-right: 15px;
+}
+
+.b {
+    width: 350px;
+    height: 330px;
+    border-radius: 5px;
+    border: black solid 1px;
+    position: relative;
+    margin: 10px;
+}
+
+.c {
+    width: 331px;
+    height: 25px;
+    position: absolute;
+    top: 110px;
+    text-align: center;
+    font-family: "微软雅黑";
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.tu {
+    margin: 10px;
+    color: white;
+}
+
+.d {
+    font-family: "微软雅黑";
+    font-size: 13px;
+    width: 350px;
+    height: 77px;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+}
+
+.shuzi {
+    color: red;
+}
+
+.left {
+    width: 175px;
+
+    float: left;
+}
+
+.right {
+    width: 175px;
+    float: right;
+}
+
+.db {
+    width: 350px;
+    height: 100px;
+    font-family: 微软雅黑;
+    font-size: 8px;
+    line-height: 25px;
+
+
+}
+.left2{width: 250px;
+    float:left;
+}
+.right2{
+    width: 100px;
+    float: right;
+    color: red;
+}
+.aimg {
+    background-image: url("../imgs/bg.gif");
+}
+.kuan{
+    width: 800px;
+    background-color: #33ff5a;
+    border: 1px;
+    margin: 0px auto ;
+}
+.DYG{
+    float:left;
+}

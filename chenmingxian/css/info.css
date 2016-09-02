@@ -1,0 +1,113 @@
+*{
+    margin: 0px;padding: 0px;
+}
+.zuida{
+    width:750px;
+    margin: 5px auto;
+
+}
+.senconddiv{
+    width:360px;
+    height: 400px;
+    border:0px solid black;
+    float: left;
+    margin: 0px 5px;
+}
+.twodiv{
+    height:20px;
+    font-size: 16px;
+    text-align: center;
+    border:0px solid black;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    float: left;
+}
+.threediv{
+    width:12px;
+    height:22px;
+    float:left;
+    background-image: url(../../imgs/bg.gif);
+    background-position: 0px 52px;
+    border:0px solid black;
+}
+.fourdiv{
+    font-weight: bold;
+    font-family: "微软雅黑";
+    float: right;
+    width: 250px;
+    height:20px;
+    font-size: 14px;
+    text-indent:195px;
+    border:0px solid black;
+    background-image: url(../../imgs/bg.gif);
+    background-position: -100px 51px;
+}
+.neirong{
+    width:360px;
+    height:340px;
+    border:1px solid silver;
+    border-radius: 5px;
+    float: left;
+}
+.beijing{
+    width: 331px;
+    height:125px;
+    border:1px solid #edebf1;
+    margin: 5px auto;
+    background-image: url(../../imgs/deco.jpg);
+}
+.tuoming{
+    width: 331px;
+    height: 20px;
+    background-color: black;
+    margin-top:105px;
+    text-align: center;
+    background:rgba(0,0,0,0.5);
+}
+.ziti{
+    font-size: 16px;
+    color: #ffffff;
+}
+.shijian{
+    width:331px;
+    height: 100px;
+    line-height: 22px;
+    font-family:"微软雅黑";
+    font-size: 13px;
+    border-bottom: 1px dashed silver;
+    margin: auto;
+    color: #5a5a5a;
+}
+.dibian{
+    width:331px;
+    height: 100px;
+    margin: 5px auto;
+    line-height: 20px;
+    font-family:"微软雅黑";
+    font-size: 13px;
+}
+ul li{
+    list-style:none;
+}
+.laji{
+    float: left;
+}
+
+.laji1{
+    float: right;
+}
+span{
+    color: red;
+}
+a{
+    color: #68ccf1;
+    text-decoration: none;
+}a:hover{
+    color: #f18f14;
+ }
+ .gege{
+     color: white;
+ }
+.daye{
+    color: #000;
+}
