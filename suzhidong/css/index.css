@@ -1,0 +1,659 @@
+* { margin:0;
+    padding:0;
+}
+.box {
+    width:725px;
+    height:1000px;
+    margin:0 auto;
+}
+.top_left {
+    width:354px;
+    height:362px;
+    float:left;
+    margin-top:25px;
+
+}
+.top_left_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.top_left_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.top_left_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.top_left_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.top_left .photo {
+    height: 125px;
+    background: url("../../imgs/deco.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+        top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}
+
+
+
+
+
+
+.top_right {
+    width:354px;
+    height:362px;
+    float:right;
+    margin-top:25px;
+}
+.top_right_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.top_right_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.top_right_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.top_right_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.top_right .photo {
+    height: 125px;
+    background: url("../../imgs/maple.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+    top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}
+
+
+
+
+
+.middle_left {
+    width:354px;
+    height:362px;
+    float:left;
+    margin-top:25px;
+
+}
+.middle_left_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.middle_left_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.middle_left_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.middle_left_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.middle_left .photo {
+    height: 125px;
+    background: url("../../imgs/swim.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+    top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}
+
+
+
+
+
+
+.middle_right {
+    width:354px;
+    height:362px;
+    float:right;
+    margin-top:25px;
+
+}
+.middle_right_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.middle_right_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.middle_right_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.middle_right_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.middle_right .photo {
+    height: 125px;
+    background: url("../../imgs/boss.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+    top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}
+
+
+
+
+
+
+
+
+.buttom_left {
+    width:354px;
+    height:362px;
+    float:left;
+    margin-top:25px;
+
+}
+.buttom_left_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.buttom_left_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.buttom_left_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.buttom_left_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.buttom_left .photo {
+    height: 125px;
+    background: url("../../imgs/music.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+    top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+.buttom_right {
+    width:354px;
+    height:362px;
+    float:right;
+    margin-top:25px;
+
+}
+.buttom_right_head {
+    width:354px;
+    height:25px;
+    background-image: url("../../imgs/bg.gif");
+    background-position:0 -177px;
+}
+li {
+
+}
+.bt {
+    float:left;
+    padding-left:15px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+.buttom_right_head ul li {
+    list-style:none;
+    float:right;
+    padding-right:15px;
+}
+.buttom_right_head ul li a {
+    text-decoration:none;
+    font-size: 12px;
+    color: black;
+}
+.buttom_right_head ul li a:hover {
+    color: #ff5f3a;
+}
+.yuan_kua {
+    width:354px;
+    height:342px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.nei_ron {
+    width: 333px;
+    height:330px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.buttom_right .photo {
+    height: 125px;
+    background: url("../../imgs/english.jpg") no-repeat;
+}
+.photo .wen_zi {
+    width:331px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    vertical-align: bottom;
+    background-color: black;
+    background: rgba(0,0,0,0.5);
+    position:relative;
+    top:100px;
+}
+.photo .wen_zi a {
+    text-decoration: none;
+    color:white;
+}
+.photo .wen_zi a:hover {
+    color: #ff5003;
+}
+.xin_xi {
+    width:332px;
+    height:99px;
+    color:#999;
+}
+.xin_xi dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+
+.lian {
+    width:332px;
+    height:102px;
+    font-size:12px;
+    border-top:1px dashed #ccc;
+    color:#999;
+
+}
+.lian dl dt {
+    height:25px;
+    line-height: 25px;
+    font-size:12px;
+}
+.lian dl dt a {
+    text-decoration: none;
+}
+.lian dl dt a:hover {
+    color:#ff5003;
+}
+span {
+    color:red;
+}

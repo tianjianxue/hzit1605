@@ -1,0 +1,116 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.dadiv {
+	width: 750px;
+	margin: 0px auto;	
+}
+.div {
+	width: 350px;
+	height: 420px;
+	float: left;
+	margin: 10px 10px;
+}
+.biaoti {
+	height: 30px;
+	width: 350px;
+	background-position: 0px -172px;
+}
+.gbimg {
+	background-image: url(../../imgs/bg.gif);
+}
+.biaoti_1 {
+
+	line-height: 30px;
+	font-weight: bold;
+	margin-left: 15px;
+	float:left;
+}
+.biaoti_2 {
+	line-height: 30px;
+	font-size: 12px;
+	float: right;
+	margin-right: 14px;
+}
+.biaoti_2 a {
+	text-decoration: none;
+	color: black;
+}
+.biaoti_2 a:hover {
+	color: rgb(255,115,0);
+}
+.neirong {
+	width: 350px;
+	height: 385px;
+	border: 1px solid #b0b0b0;
+	border-radius: 5px;
+}
+.neirong_0 {
+	width: 331px;
+	margin: 0px auto;
+	position: relative;
+	top: 10px;
+}
+.neirong_1 {
+	width: 331px;
+	height: 240px;
+	margin: 0px auto;
+	position: relative;
+	
+}
+.span_1 {
+	font-size: 14px;
+	width: 331px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	background-color: black;
+	position: absolute;
+	top: 100px;
+	color: white;
+	background: rgba(0,0,0,0.5);
+}
+.span_2 {
+	color: red;
+}
+.neirong_1 ul {
+	border-bottom: 1px dashed #b0b0b0;
+	list-style: none;
+}
+.neirong_1 ul li {
+	font-size: 14px;
+	color: rgb(90,90,90);
+	line-height: 28px;
+}
+.neirong_2 {
+	width: 331px;
+	margin: 0px auto;
+}
+.neirong_2 ul li {
+	font-size: 14px;
+	line-height: 30px;
+	color: rgb(90,90,90);
+	list-style: none;
+}
+.neirong_2 a {
+	text-decoration: none;
+	color: rgb(23,112,238);
+}
+.neirong_2 a:hover {
+	color: rgb(255,115,0);
+}
+.neirong_div {
+	float: right;
+}
+.neirong_1 a {
+	text-decoration: none;
+	color: white;
+}
+.neirong_1 a:hover {
+	color: rgb(255,115,0);
+}
+img {
+	width: 331px;
+	height: 125px;
+}
