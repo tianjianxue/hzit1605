@@ -1,0 +1,456 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "微软雅黑";
+}
+.boss {
+    width: 1000px;
+    height: 1040px;
+    margin: 0px auto;
+}
+.logo {
+    width: 100%;
+    height: 49px;
+    margin: 0px auto;
+    background-image: url("../../imgs/menuBg.jpg");
+    background-repeat: repeat-x;
+}
+.logo_left {
+    height: 100%;
+    width: 700px;
+    float: left;
+}
+.logo_left_1 {
+    width: 250px;
+    height: 47px;
+    padding: 3px 0px 0px;float: left;
+}
+.logo_left_2 {
+    height: 30px;
+    line-height: 25px;
+    padding: 7px 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    background-color: white;
+    color: rgb(203,51,51);
+    border-radius: 4px;
+}
+.logo_left_2 a:link {
+    color: rgb(203,51,51);
+    text-decoration: none;
+}
+
+.logo_left_2 a:visited {
+    color: rgb(203, 51, 51);
+}
+.logo_right {
+    height: 100%;
+    width: 300px;
+    float: left;
+}
+.logo_right_1 {
+    margin: 18px 20px 15px 60px;
+    height: 14px;
+}
+.logo_right_1 a:link {
+    color: white;
+    text-decoration: none;
+}
+.logo_right_1 a:hover {
+    text-decoration: underline;
+}
+.logo_right_1 a:visited {
+    color: white;
+}
+.logo_right_1_1 {
+    float: left;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 14px;
+    border-right: 1px solid white;
+    color: white;
+}
+.logo_right_1_2 {
+    float: left;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 14px;
+    border-right: 1px solid white;
+    color: white;
+}
+.logo_right_1_3 {
+    float: left;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 14px;
+    border-right: 1px solid white;
+    color: white;
+}
+.logo_right_1_4 {
+    float: left;
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 14px;
+    color: white;
+}
+.head {
+    width: 100%;
+    height: 233px;
+    margin-top: 10px;
+}
+.head_1 {
+    width: 192px;
+    height: 100%;
+    border: 1px solid rgb(204,204,204);
+    float: left;
+}
+.head_1 div {
+    background-image: url("../../imgs/gameBg1.jpg");
+    height: 29px;
+    width: 100%;
+    line-height: 20px;
+}
+.head_1 a:link {
+    text-decoration: none;
+    color: black;
+}
+.head_1 div:hover {
+    background-image: url("../../imgs/gameBg2.jpg");
+    color: white;
+}
+.head_1 a:visited {
+    color: black;
+}
+.head_1 img {
+    margin: 9px 4px 0px 8px;
+}
+.head_1 span {
+    margin: 13px 8px;
+    font-size: 12px;
+    position: relative;
+    bottom: 7px;
+}
+.head_2 {
+    height: 100%;
+    width: 520px;
+    margin: 0px 10px;
+    float: left;
+    border: 1px solid rgb(204,204,204);
+}
+.head_3 {
+    width: 262px;
+    height: 100%;
+    border: 1px solid rgb(204,204,204);
+    float: left;
+    background-color: rgb(243,243,243);
+}
+.head_3_1 {
+    height: 20px;
+    width: 140px;
+    font-size: 18px;
+    margin: 20px 30px 0px 20px;
+}
+.head_3_2 {
+    width: 215px;
+    height: 22px;
+    margin: 30px 20px 0px;
+}
+.head_3_3 {
+    width: 215px;
+    height: 22px;
+    margin: 10px 20px 0px;
+}
+.head_3_4 {
+    width: 180px;
+    height: 60px;
+    margin: 20px 0px 0px 70px;
+}
+.head_3_4_1 {
+    width: 65px;
+    height: 24px;
+    float: left;
+    margin-top: 10px;
+}
+.head_3_4_2 {
+    float: left;
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.head_3_4_2_1 {
+    margin-bottom: 5px;
+}
+.head_3_4_2 a:link {
+    color: blue;
+    text-decoration: none;
+}
+.head_3_4_2 a:hover {
+    text-decoration: underline;
+}
+.head_3_4_2 a:visited {
+    color: blue;
+}
+.body-left {
+    width: 724px;
+    height: 680px;
+    border: 1px solid rgb(209,209,209);
+    margin-top: 10px;
+    float: left;
+}
+.body-left_1 {
+    width: 100%;
+    height: 28px;
+    background-image: url("../../imgs/titleBg.jpg");
+    background-repeat: repeat-x;
+
+}
+.body-left_1 a:link {
+    color: rgb(102,102,102);
+}
+.body-left_1 a:visited {
+    color: rgb(102,102,102);
+}
+.body-left_1_1 {
+    float: left;
+    line-height: 28px;
+    color: rgb(125,8,8);
+    font-weight: bold;
+    margin-left: 10px;
+}
+.body-left_1_2 {
+    float: left;
+    height: 15px;
+    line-height: 15px;
+    margin-left: 30px;
+    padding: 0px 10px;
+    border-right: 1px solid #ccc;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.body-left_1_3 {
+    float: left;
+    line-height: 15px;
+    padding: 1px 10px;
+    border-right: 1px solid #ccc;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.body-left_1_4 {
+    float: left;
+    line-height: 15px;
+    padding: 1px 10px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.body-left_2 {
+    width: 100%;
+    height: 200px;
+}
+.body-left_2_1 {
+    width: 320px;
+    height: 150px;
+    float: left;
+    border: 1px solid rgb(209,209,209);
+    margin-top: 20px;
+    margin-left: 25px;
+}
+#fan {
+    border-top: 1px solid rgb(209,209,209);;
+}
+.body-left_2_2 {
+    width: 320px;
+    height: 150px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.body-left_2_1_1 {
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 180px;
+    height: 135px;
+    float: left;
+}
+.body-left_2_1_2 {
+    width: 130px;
+    height: 140px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 5px;
+}
+.font14px {
+    font-size: 13px;
+}
+.body-left_2_1_2_1 {
+    margin-bottom: 5px;
+}
+.body-left_2_1_2_1 a:link {
+    color: rgb(167,0,0);
+    text-decoration: none;
+}
+.body-left_2_1_2_1 a:hover {
+    text-decoration: underline;
+}
+.body-left_2_1_2_1 a:visited {
+    color: rgb(167,0,0);
+}
+.jxy {
+    float: left;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.zl {
+    float: left;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.body-left_4 {
+    width: 100%;
+    height: 400px;
+}
+.body-left_4_1 {
+    width: 132px;
+    height: 183px;
+    float: left;
+    margin: 15px 0px 0px 40px;
+}
+.font-color {
+    color: rgb(167,0,0);
+}
+.font-weight {
+    font-weight: bold;
+}
+.body-left_4_1 a:link {
+    color: rgb(167, 0, 0);
+    text-decoration: none;
+}
+.body-left_4_1 a:hover {
+    text-decoration: underline;
+}
+.body-left_4_1 a:visited{
+    color: rgb(167, 0, 0);
+}
+.body-left_4_1 p {
+    line-height: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+.body-right1 {
+    width: 262px;
+    height: 360px;
+    float: left;
+    border: 1px solid rgb(209,209,209);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.body-right1_2 {
+    width: 255px;
+    height: 318px;
+    margin: 10px 2px;
+}
+.body-right1_2_1 {
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    border-bottom: 1px dashed rgb(209,209,209);
+    margin-bottom: 5px;
+ }
+.body-right1_2_1,.hf span {
+    position: relative;
+    bottom: 2px;
+}
+.hf {
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+}
+.body-right1_2_1 a:link {
+    color: black;
+    text-decoration: none;
+}
+.body-right1_2_1 a:hover {
+    text-decoration: underline;
+}
+.body-right1_2_1 a:visited {
+    color: black;
+}
+.hf a:link {
+    color: black;
+    text-decoration: none;
+}
+.hf a:hover {
+    text-decoration: underline;
+}
+.hf a:visited {
+    color: black;
+}
+.body-right2 {
+    width: 262px;
+    height: 300px;
+    float: left;
+    border: 1px solid rgb(209,209,209);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.body-right2_2_1 {
+    width: 130px;
+    height: 85px;
+    margin-top: 30px;
+    margin-left: 7px;
+    float: left;
+}
+.body-right2_2_2 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 6px;
+    width: 115px;
+    height: 85px;
+}
+.body-right2_2_2 p {
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+.body-right2_2_2 a:link {
+    color: rgb(43,96,165);
+    text-decoration: none;
+}
+.body-right2_2_2 a:hover {
+    text-decoration: underline;
+}
+.body-right2_2_2 a:visited {
+    color: rgb(43,96,165);
+}
+.body-right2_3 {
+    width: 250px;
+    height: 20px;
+    clear: left;
+    border-bottom: 1px dashed rgb(209,209,209);
+    margin-left: 5px;
+}
+.db01 {
+    clear: left;
+    float: left;
+    width: 40%;
+    height: 40px;
+    line-height: 40px;
+}
+.db01 a:link {
+    color: rgb(43,96,165);
+    text-decoration: none;
+}
+.db01 a:hover {
+    text-decoration: underline;
+}
+.db01 a:visited {
+    color: rgb(43,96,165);
+}
+.db02 {
+    float: left;
+}
+.db01,.db02 {
+    height: 40px;
+    line-height: 40px;
+    font-size: 13px;
+}
