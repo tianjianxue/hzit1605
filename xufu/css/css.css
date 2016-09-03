@@ -83,15 +83,38 @@
     line-height: 20px;
     border-bottom: 1px dashed #cccccc;
 }
-.zhuti-2 p,.bottom p{
-    font-size: 15px;
-    font-family: weiruanya;
+.zhuti-2 p,.bottom div{
+    font-size: 12px;
+    font-family: 微软雅黑;
     line-height: 30px;
 }
 span{
     color:red;
 }
-.bottom p a{
+.bottom div a{
     text-decoration: none;
 }
+.zhuti-2 .one{
+    width: 320px;
+    height: 20px;
+}
+.zhuti-2  .one .two {
+    float: left;
+}
+.two{
+    padding-right: 60px;
+}
+.zhuti-2 .one-1{
+    width: 320px;
+    height: 20px;
+}
+.zhuti-2  .one-1 .two-1 {
+    float: left;
+}
+.two-1{
+    padding-right: 50px;
+}
+
+
+
 
