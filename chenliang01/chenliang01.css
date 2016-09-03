@@ -14,8 +14,8 @@
     margin-top: 10px; text-align: center;font-size: 16px;font-weight: bold;font-family: 微软雅黑;
     background-color: white;border-radius: 2px;}
 .shl li{width: 70px;height: 25px;list-style: none;float: left;color: white;
-    font-family: 微软雅黑;font-weight:bold;font-size: 14px;line-height: 25px;
-    text-align: center;margin:10px 1px 10px 1px;}
+    font-family: 微软雅黑;font-weight:bold;font-size: 14px;line-height: 25px;margin:10px 1px 10px 1px;
+    text-align: center;}
 .shm{border-right:1px white solid;}
 
 
@@ -23,7 +23,8 @@
 .chb{border: 1px red solid;width:510px;height:228px;float: left;}
 .chc{border: 1px yellow solid;width: 320px;height:228px;float: right;background-color: rgb(243,243,243)}
 .chd li{border: 1px white solid;width: 230px;height: 22px;list-style: none;
-    margin-top:4px;background-color:rgb(232,232,232);font-weight: bold;line-height: 20px;font-size: 14px;}
+    margin-top:4px;background-color:rgb(232,232,232);font-weight: bold;font-size: 14px;}
+.che span{position: relative;top: 5px;}
 
 .chf{width:320px;height: 130px; }
 .chh li{list-style: none;}
@@ -42,7 +43,11 @@
 .chr{border: 1px solid black;width: 320px;height:300px;float: right}
 
 
-.aa{border: 1px solid royalblue;width: 776px;height: 40px;}
+.aa{border: 1px solid royalblue;width: 776px;height: 40px;background-color: rgb(243,243,243)}
 .ab{border: 1px solid red;width: 776px;height:200px;}
-.ac li{border: 1px solid blue;width:80px;height: 40px;list-style: none;float: left;}
-.ad{}
+.ac li{border: 1px solid blue;width:80px;height: 40px;list-style: none;float: left;
+    line-height:40px;margin: 0px auto; }
+.af{border: 1px solid gray;width: 350px;height:160px;float: left;margin:20px 15px 20px 20px;}
+.ag{border: 1px solid gray;width: 350px;height: 160px;float: right;margin:20px 20px 20px 0px;}
+.af span{position: relative;left: 15px;
+    top: 10px;}
