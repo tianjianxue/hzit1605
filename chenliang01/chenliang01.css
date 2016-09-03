@@ -1,0 +1,47 @@
+*{margin: 0px;padding: 0px}
+
+.sha{border: 1px red solid;width:1100px;height: 1140px;margin: 0px auto;}
+.shb{border: 1px red solid;width:1100px;height: 45px;background-color:rgb(205,26,56);}
+.shc{border: 1px blue solid;width:1100px;height: 228px;}
+.shd{border: 1px black solid;width:1100px;height:800px;}
+.she{border: 1px yellow solid;width: 1100px;height: 50px;}
+.shf{width:1000px;height: 45px;margin: 0px auto;}
+.shg{width:400px;height:44px;float: left;}
+.shh{width: 300px;height: 44px;float: right;}
+.shi{list-style: none;float: left;}
+.shj{width: 250px;height: 45px;float: left;}
+.shk{width:70px;height: 35px;float: right;line-height: 35px;color:rgb(205,26,56);
+    margin-top: 10px; text-align: center;font-size: 16px;font-weight: bold;font-family: 微软雅黑;
+    background-color: white;border-radius: 2px;}
+.shl li{width: 70px;height: 25px;list-style: none;float: left;color: white;
+    font-family: 微软雅黑;font-weight:bold;font-size: 14px;line-height: 25px;
+    text-align: center;margin:10px 1px 10px 1px;}
+.shm{border-right:1px white solid;}
+
+
+.cha{border: 1px blue solid;width:230px;height:228px;float: left;margin-right: 16px}
+.chb{border: 1px red solid;width:510px;height:228px;float: left;}
+.chc{border: 1px yellow solid;width: 320px;height:228px;float: right;background-color: rgb(243,243,243)}
+.chd li{border: 1px white solid;width: 230px;height: 22px;list-style: none;
+    margin-top:4px;background-color:rgb(232,232,232);font-weight: bold;line-height: 20px;font-size: 14px;}
+
+.chf{width:320px;height: 130px; }
+.chh li{list-style: none;}
+.chi{width: 280px;height: 50px;margin-left: 35px;
+    line-height: 55px;font-size: 16px;font-weight: bold;font-family: 微软雅黑；}
+.chj{width: 280px;height: 30px;margin-left: 35px;}
+.chk{bwidth: 280px;height: 30px;margin-left:35px;}
+.chl{position: relative;left:82px;top: 10px;}
+.chm{position: relative;right: -85px;top: -8px;color: #2e5eff;}
+.chn{position: relative;right: -12px;top: 17px;color: #2e5eff;}
+
+
+.cho{border: 1px solid red;width:776px;height:250px;float: left}
+.chp{border: 1px solid blue;width: 320px;height:500px;float: right}
+.chq{border: 1px solid red;width: 776px;height:550px;float: left}
+.chr{border: 1px solid black;width: 320px;height:300px;float: right}
+
+
+.aa{border: 1px solid royalblue;width: 776px;height: 40px;}
+.ab{border: 1px solid red;width: 776px;height:200px;}
+.ac li{border: 1px solid blue;width:80px;height: 40px;list-style: none;float: left;}
