@@ -37,17 +37,39 @@
 .chn{position: relative;right: -12px;top: 17px;color: #2e5eff;}
 
 
-.cho{border: 1px solid red;width:776px;height:250px;float: left}
+.cho{border: 1px solid red;width:760px;height:250px;float: left}
 .chp{border: 1px solid blue;width: 320px;height:500px;float: right}
-.chq{border: 1px solid red;width: 776px;height:550px;float: left}
+.chq{border: 1px solid red;width: 760px;height:550px;float: left}
 .chr{border: 1px solid black;width: 320px;height:300px;float: right}
 
 
-.aa{border: 1px solid royalblue;width: 776px;height: 40px;background-color: rgb(243,243,243)}
-.ab{border: 1px solid red;width: 776px;height:200px;}
+.aa{border: 1px solid royalblue;width: 760px;height: 40px;background-color: rgb(243,243,243)}
+.ab{border: 1px solid red;width: 760px;height:200px;}
 .ac li{border: 1px solid blue;width:80px;height: 40px;list-style: none;float: left;
     line-height:40px;margin: 0px auto; }
 .af{border: 1px solid gray;width: 350px;height:160px;float: left;margin:20px 15px 20px 20px;}
 .ag{border: 1px solid gray;width: 350px;height: 160px;float: right;margin:20px 20px 20px 0px;}
-.af span{position: relative;left: 15px;
-    top: 10px;}
+.ah{position: relative;left: 15px;
+    top: 10px;float: left}
+.ai{border: 1px black solid;width:140px;height:160px;float:right;}
+.ai p{line-height: 25px;font-size: 12px;font-weight: bold;font-family: 微软雅黑;}
+.ai h4{font-size: 16px;font-weight: bold;font-family: 微软雅黑;}
+
+.aj{position: relative;left: 15px;
+    top: 10px;float: left}
+.ak{border: 1px black solid;width:140px;height:160px;float:right;}
+.ak p{line-height: 25px;font-size: 12px;font-weight: bold;font-family: 微软雅黑;}
+.ak h4{font-size: 16px;font-weight: bold;font-family: 微软雅黑;}
+
+.al{border: 1px solid royalblue;width: 320px;height: 40px;background-color: rgb(243,243,243);line-height: 40px;}
+.am p{line-height:39px;color: black;}
+
+.an{border: 1px solid royalblue;width: 760px;height: 40px;background-color: rgb(243,243,243);line-height: 40px;
+    font-weight: bold;font-size: 16px;  color: red;font-family: 微软雅黑;}
+
+.ao{border: 1px red solid;width: 760px;height: 500px;}
+
+.ap{border: 1px red solid;width: 132px;height: 165px;font-size: 14px;float: left;margin: 40px 25px 40px 25px;
+    font-weight: bold;font-family: 微软雅黑;color: black}
+
+.aq{color: red;margin:0px 40px 0px 40px;}
