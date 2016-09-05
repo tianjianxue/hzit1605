@@ -200,15 +200,6 @@
     padding: 25px;
     border-bottom: 1px solid #cccccc;
 }
-.all_games dt {
-    width: 320px;
-    height: 155px;
-    float: left;
-    font-size: 12px;
-    line-height: 20px;
-    font-family: Verdana, Arial, Helvetica, sans-serif, 宋体;
-    border: 1px solid #cccccc;
-}
 .all_games a {
     font-size: 14px;
     color: #a70a0a;
@@ -242,7 +233,7 @@
 .all_games dd {
     width: 320px;
     height: 155px;
-    float: left;
+    float: right;
     font-size: 12px;
     line-height: 20px;
     font-family: Verdana, Arial, Helvetica, sans-serif, 宋体;
