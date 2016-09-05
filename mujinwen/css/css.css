@@ -1,0 +1,100 @@
+*{margin: 0px;padding: 0px}
+.onediv{width: 1000px;height:45px;margin: 0px auto;
+    background-image: url("../imgs/menuBg.jpg");}
+.twodiv ul li {float: left;list-style: none;}
+.oneli {width: 100px;background: url("../imgs/btn-01.gif") no-repeat;text-align: center;
+    margin-left: 18px;height: 35px;line-height: 35px;margin-top: 10px}
+.oneli a {color:#d43333;font-weight: bold;text-decoration: none }
+
+.twodiv {height: 45px;width:400px;float: left}
+.fourdiv ul li {float: left;list-style: none;width: 50px;height: 45px;line-height: 45px;font-size: 14px}
+.fourdiv ul li a {color: white;text-decoration: none}
+.fourdiv ul li a:hover {text-decoration: underline}
+.fourdiv {position:relative;margin-left: 330px;width:680px;height: 45px;}
+.fourdiv ul {margin-left: 450px;}
+
+.sonediv {width: 1000px;height:240px;margin:10px auto;}
+.stwodiv {width: 190px;height: 240px;border: 1px solid #ccc;float: left;}
+.stwodiv ul li {width: 193px;height: 30px;list-style: none;
+    background-image:url("../imgs/gameBg1.jpg");background-repeat: no-repeat;font-size: 12px;line-height: 30px}
+.stwodiv ul li a {color: black;text-decoration: none}
+.stwodiv ul li  a:hover{display: block;background-image: url("../imgs/gameBg2.jpg");background-repeat: no-repeat;
+}
+img {vertical-align: middle}
+.sthreediv {float: left;width: 518px;margin-left: 10px;border: 1px solid #ccc;
+    height: 240px; }
+.sfourdiv {float:left;width:266px;height: 240px;border: 1px solid #ccc;margin-left: 10px;background-color: #f3f3f3 }
+.sfivediv ul li {list-style: none;height: 39px;width: 266px;font-size: 14px}
+.sfivediv ul {margin-left: 20px;margin-top: 20px}
+.ssixdiv {margin-left:60px;float: left}
+.ssevendiv {float: left;margin-left: 30px;margin-top: -5px}
+.ssevendiv ul li {list-style: none;font-size: 12px;height: 20px}
+.ssevendiv ul li a{color: #2b62a5;text-decoration: none}
+.ssevendiv ul li a:hover {text-decoration:underline}
+
+
+.tonediv {width: 1000px;height:660px;margin: 10px auto}
+.ttwodiv {width: 720px;height: 238px;border: 1px solid #ccc}
+.tthreediv {float: left;margin-left: 10px;height: 30px;line-height: 30px;color: #7d0808;font-weight: bold}
+.tfourdiv  {float: left;margin-left: 30px}
+.tfourdiv ul li {list-style: none;float: left;height: 30px;line-height: 30px;padding-left: 10px}
+.tfourdiv ul li a {color: #666666}
+.tfivediv{width: 720px;height: 30px;border-bottom: 1px solid #ccc;background-color:#f3f7fa}
+.tsixdiv {width: 322px;height: 158px;border: 1px solid #ccc;margin-left: 25px;margin-top: 25px;float: left}
+.tsevendiv {width: 322px;height: 158px;border: 1px solid #ccc;float: left;margin-top: 25px;margin-left: 25px}
+.teightdiv {width: 180px;height:135px;margin-left: 5px;margin-top: 5px;float: left }
+.tninediv {float: left;margin-top: 5px;margin-left: 3px}
+.tninediv ul li {list-style: none;font-size: 13px;height:20px}
+.tninediv ul li a {text-decoration: none;color:#ba0a0a;font-weight: bold }
+.tninediv ul li a:hover{text-decoration: underline}
+span {color:#a70a0a}
+.ttendiv ul li {float: left;list-style: none;padding-left: 3px}
+.ttendiv ul {margin-left: 187px;}
+
+.fonediv {background-color:#f3f7fa;width: 710px;border-left: 1px solid #ccc;border-right: 1px solid #ccc;
+    height: 30px;padding-left: 10px;color: #7d0808;font-weight: bold;
+    line-height: 30px}
+.ftwodiv {width: 720px;height:388px;border: 1px solid #ccc}
+.fthreediv {width: 130px;height: 185px;margin-left: 42px;float: left;margin-top: 10px}
+.ffourdiv ul li  {list-style: none;font-size: 12px;width: 130px;text-align: center;height:20px;
+    line-height: 20px}
+.ffourdiv ul li a {font-size: 14px;font-weight: bold;color: #7d0808;text-decoration: none}
+.ffourdiv ul li a:hover {text-decoration: underline}
+.ffivediv ul li {list-style: none;float: left;padding-left: 2px}
+.ffivediv {margin-left: 3px}
+
+.donediv {width: 720px;height: 660px;float: left}
+.dtwodiv {height: 660px;width: 266px;float: left;margin-left: 10px}
+.dthreediv {color: #7d0808;font-weight: bold;padding-left: 10px;height: 30px;line-height: 30px;
+    border-right: 1px solid #ccc;border-left: 1px solid #ccc;
+    border-top:1px solid #ccc;width: 255px}
+.dfourdiv {font-size: 12px;margin-top:10px;height:330px;width:265px;margin-left: 7px}
+.dfourdiv ul li {height: 26px;line-height: 26px;list-style: none;
+    width: 250px;}
+.dfourdiv ul .oli {border-bottom: 1px dashed #ccc;}
+.dfivediv {width: 265px;height: 340px;border: 1px solid #ccc}
+.dfourdiv ul li a {color: black;text-decoration: none}
+.dfourdiv ul li a:hover {text-decoration: underline}
+.dsixdiv {color: #7d0808;font-weight: bold;padding-left: 10px;height: 30px;line-height: 30px;
+    border-left: 1px solid #ccc;margin-top: 10px;border-right: 1px solid #ccc;border-top: 1px solid #ccc}
+.dsevendiv {margin-left: 5px;margin-top:15px;border-bottom: 1px dashed #ccc;height: 95px}
+.deightdiv {float: left;}
+.dninediv {float: left;}
+.dninediv ul li {list-style: none;font-size: 12px;height: 25px;line-height: 25px;padding-left:7px}
+
+.dsevendiv a {color: #2b62a5;text-decoration: none}
+.dsevendiv a:hover {text-decoration: underline}
+.dtendiv {margin-left: 5px;margin-top: 15px;height: 95px}
+
+.delevendiv {border-bottom: 1px solid #CCCCCC;border-left: 1px solid #CCCCCC;border-top:1px solid #CCCCCC ;
+    border-right: 1px solid #CCCCCC;height: 240px}
+.dtendiv a {color: #2b62a5;text-decoration: none}
+.dtendiv a:hover {text-decoration: underline}
+.eonediv {width: 1000px ;height: 40px ;margin: 0px auto ;}
+
+.etwodiv ul li {list-style: none;height: 40px;line-height: 40px;float: left;font-size: 12px;padding-left: 14px}
+.ethreediv ul li {list-style: none;height: 40px;line-height: 40px;float: left;font-size: 12px;
+    padding-left:10px}
+.ethreediv {margin-left: 410px}
+.etwodiv ul li a {text-decoration: none;color: #2b62a5}
+.etwodiv ul li a:hover {text-decoration: underline}
