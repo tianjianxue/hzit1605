@@ -1,4 +1,4 @@
-*{
+﻿*{
     margin: 0px;
     padding: 0px;
 }
@@ -31,7 +31,7 @@
 a{
     text-decoration: none;
     color: #404040;
-    font-family: 'w微软雅黑';
+    font-family: '微软雅黑';
 }
 .neirong{
     border: 1px solid black;
