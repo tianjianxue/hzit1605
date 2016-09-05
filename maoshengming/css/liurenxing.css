@@ -107,7 +107,6 @@
 }
 .body_body_2 {
     z-index: 14;
-
 }
 .float {
     float: left;
@@ -149,5 +148,12 @@ a:hover {
     color: black;
 }
 .body_title_right a:hover {
+    color: rgb(255,155,0);
+}
+.body_body_1_2 span a:link {
+    text-decoration: none;
+    color: white;
+}
+.body_body_1_2 span a:hover {
     color: rgb(255,155,0);
 }
