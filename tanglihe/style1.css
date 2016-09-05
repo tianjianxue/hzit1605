@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+}
+.cf {
+    *zoom: 1;
+}
+.cf:hover {
+    content: "";
+    display: table;
+    clear:both;
+}
+.top {
+    height: 50px;
+    width: 1000px;
+    margin:0 auto;
+    background-image: url("../imgs/menuBg.jpg");
+    margin-bottom: 10px;
+}
+.kxw {
+    float: left;
+    width: 247px;
+    height: 45px;
+    padding-top:5px;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    float: left;
+    padding-top:10px;
+    background-image: url("../imgs/btn-01.gif");
+    position: relative;
+    top:10px;
+    left:0px;
+    text-align: center;
+    line-height: 20px;
+}
+.btn a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+.zc {
+    float: right;
+    width: 230px;
+    height: 32px;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 18px;
+}
+.zc li {
+    float: left;
+    width: 50px;
+    height: 14px;
+    list-style: none;
+
+}
+.zc li a {
+    text-decoration: none;
+    color: white;
+}
+.zc li a:hover {
+    text-decoration: underline;
+}
+.li_border {
+    border-right: 1px white solid;
+}
+.list {
+    height: 231px;
+    width: 1000px;
+    margin:0 auto;
+    background-color: #0bb20c;
+}
+.list-left {
+    width: 190px;
+    height: 231px;
+    float: left;
+}
+.list-left li {
+    background-image: url("../imgs/gameBg1.jpg");
+    width: 190px;
+    height: 29px;
+    list-style: none;
+    font-size: 12px;
+}
+.list-left li span {
+    position: relative;
+    left:0;
+    top:6px;
+}
+.list-left li a {
+    text-decoration: none;
+    color:black;
+    display: block;
+    height: 27px;
+    width: 190px;
+    padding-top: 2px;
+    vertical-align: middle;
+}
+.list-left li a:hover {
+    background-image: url("../imgs/gameBg2.jpg");
+}
+.list-left li img {
+    margin:0 5px 0 10px;
+}
+.list-middle {
+    width:517px;
+    height: 231px;
+    float: left;
+    margin-left:10px;
+}
+
+.list-right {
+    width: 273px;
+    height: 231px;
+    float: right;
+    background-color: #F3F3F3;
+}
