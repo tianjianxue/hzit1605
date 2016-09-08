@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        #span_1 {
+            color: red;
+        }
+        #span_2 {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <p>奇数红，偶数绿</p>
+    <input type="button" value="颜色分组" onclick="color()">
+    <div id="color"></div>
+
+
+    <script>
+        function color() {
+            var x='';
+            for(var i=1;i<101;i++){
+                if(i%2==0){
+                    x=x+'<span id="span_1">'+i+'</span>'+'<br>'
+                }
+                else{
+                    x=x+'<span id="span_2">'+i+'</span>'+'<br>'
+                }
+            }
+            document.getElementById('color').innerHTML = x
+        }
+    </script>
+</body>
+</html>
