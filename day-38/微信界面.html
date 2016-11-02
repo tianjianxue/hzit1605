@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 微软雅黑;
+            box-sizing: border-box;
+        }
+
+        .cf:after {
+            content: '';
+            display: table;
+            clear: both
+        }
+
+        .cf {
+            *zoom: 1;
+        }
+
+        .nav {
+            width: 100%;
+            height: 0.8rem;
+        }
+
+        .nav-l {
+            font-size: 0.5rem;
+            float: left;
+            line-height: 0.8rem;
+            margin-left: 0.2rem
+        }
+
+        .nav-c {
+            font-size: 0.36rem;
+            float: left;
+            line-height: 0.8rem;
+            text-align: center;
+            width: 5rem;
+
+        }
+
+        .nav-r {
+            float: right;
+            margin-right: 0.2rem;
+            margin-top: .1rem
+        }
+
+        .nav-r div {
+            width: 0.38rem;
+            height: 0.07rem;
+            background-color: #626262;
+            margin-top: 0.08rem;
+            border-radius: 5px
+        }
+
+        .cen {
+            width: 100%;
+
+            background-color: #f4f4f4;
+            border-top: 1px solid #dddddd;
+            border-bottom: 1px solid #dddddd;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .bg {
+            width: 6rem;
+            height: 2.7rem;
+            background: url("img/bg.png") no-repeat ;
+
+            background-size: 6rem 2.5rem;
+            margin: 0.2rem auto 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .mei {
+            font-size: 0.2rem;
+            color: white;
+            float: left;
+            margin-left: .1rem;
+            text-align: center;
+            line-height:.7rem;
+
+        }
+
+        .liP {
+            width: 1.4rem;
+            height: .4rem;
+            text-align: center;
+            line-height: .4rem;
+            background: #d7fcd2;
+            font-size: 0.25rem;
+            color: #279560;
+            position: absolute;
+            top: 0.1rem;
+            right: -.35rem;
+            transform:rotate(40deg);
+            -ms-transform:rotate(40deg); /* IE 9 */
+            -webkit-transform:rotate(40deg); /* Safari and Chrome */
+        }
+
+        .log {
+            width: 2.9rem;
+            height: 0.63rem;
+
+            position: absolute;
+            top: 0.25rem;
+            left: 0.25rem;
+        }
+        .jq{
+            position: absolute;
+            top: 1.3rem;
+            left: 1.5rem;
+            height: .86rem;
+        }
+        .bg-one{
+            background: url("img/logone.png") no-repeat center;
+            background-size: cover;
+            width: 0.63rem;
+            height:0.63rem;
+            float: left;
+            vertical-align: middle;
+            overflow: hidden;
+            line-height:.7rem;
+        }
+        .lh{
+            background: url("img/liph.png") no-repeat center;
+            background-size: cover;
+            width: .78rem;
+            height: .86rem;
+            float: left;
+        }
+        .shu{
+            float: left;
+            width: .01rem;
+            height: .62rem;
+            background: #96d9bf;
+            margin-top: .2rem;
+            margin-right: .1rem;
+            margin-left: .1rem;
+        }
+        .er{
+            width: 6rem;
+            height: 3.3rem;
+            background: white;
+            margin: auto;
+            position: relative;
+            display: none;
+        }
+        .erw{
+            background: url("img/er.png") no-repeat center;
+            background-size: cover;
+            width: 2.22rem;
+            height: 2.22rem;
+            margin: auto ;
+            /*position: absolute;*/
+            /*top: .4rem;*/
+        }
+        .foot{
+            border-top: 1px solid #dddddd;
+            border-bottom: 1px solid #dddddd;
+        }
+        .foot p{
+            font-size: .25rem;height: .8rem;line-height: .8rem;
+            width: 6.2rem;
+            margin-left: .2rem;
+            border-bottom: .01rem solid #dddddd;
+            padding-left: .2rem;
+        }
+        .btn{
+            width: 6rem;
+            height: .8rem;
+            background: #ff6600;
+            color: white;font-size:.3rem ;
+            text-align: center;
+            line-height: .8rem;
+            margin:.6rem auto 2.9rem;
+        }
+        .mon{
+            margin-top: .2rem;
+        }
+        .mon a{
+            text-decoration: none;
+            font-size: .26rem;
+            margin: auto;
+            display: block;
+            width: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="nav cf">
+    <div class="nav-l"><</div>
+    <div class="nav-c">优惠券</div>
+    <div class="nav-r">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<div class="cen cf">
+    <div class="bg">
+        <div class="liP">礼品券</div>
+    </div>
+    <div class="log cf">
+        <div class="bg-one"></div>
+        <div class="mei">美乐乐家具旗舰店</div>
+    </div>
+
+    <div class="jq cf">
+        <div class="lh"></div>
+        <div class="shu"></div>
+        <div class="ten">
+            <p style="font-size: 0.35rem;color: white;width: 4rem;margin-top:.1rem ">金秋10月优惠券</p>
+            <p style="font-size: 0.2rem;color: white;width:4.5rem;">领取后1天生效，有效期30天</p>
+        </div>
+    </div>
+    <div class="er" id="er">
+        <div class="erw"></div>
+        <p style="font-size: .2rem ;text-align: center;width: 6rem;margin-top: .2rem">mll15613213546</p>
+        <p style="font-size: .2rem;text-align: center;width: 6rem">将本页展示给店员即可使用</p>
+    </div>
+</div>
+
+<div class="foot">
+    <p style="">使用说明 <span style="padding-left: 4.3rem;font-size: 0.5rem"> ></span></p>
+    <p style="">适用门店 <span style="padding-left: 4.3rem;font-size: 0.5rem"> ></span></p>
+    <p style="">客服电话 <span style="padding-left: 4.3rem;font-size: 0.5rem"> ></span></p>
+</div>
+
+<div class="btn" id="btn">领取</div>
+
+<p class="mon"><a href="#">查看我的钱包>></a></p>
+<script>
+    new function () {
+        var _self = this;
+        _self.width = 640; // 设置默认最大宽度
+        _self.fontSize = 100; // 默认字体大小
+        _self.widthProportion = function () {
+            var p = (document.body && document.body.clientWidth || document.getElementsByTagName("html")[0].offsetWidth) / _self.width;
+            return p;
+        };
+        _self.changePage = function () {
+            document.getElementsByTagName("html")[0].setAttribute("style", "font-size:" + _self.widthProportion() * _self.fontSize + "px !important");
+        };
+        _self.changePage();
+        window.addEventListener('resize', function () {
+            _self.changePage();
+        }, false);
+    };
+
+    var btn=document.getElementById('btn');
+    var er=document.getElementById('er');
+    btn.onclick=function () {
+        er.style.display='block';
+        btn.style.display='none'
+    }
+
+</script>
+</body>
+</html>
